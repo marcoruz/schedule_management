@@ -10,7 +10,7 @@ class faculty
 {
 public:
     string loginId;
-    void viewSchedule()         //UTC-005 & FA-001
+    void viewSchedule()         //
     {
         string ans = loginId;
         string name;
