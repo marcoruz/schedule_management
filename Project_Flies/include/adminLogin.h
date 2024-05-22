@@ -183,6 +183,7 @@ public:
         if (!validateString(venueDetail)) {
             createSchedule();
         }
+        
 
         cout << "Enter the total number of participants : ";
         cin >> nop;
