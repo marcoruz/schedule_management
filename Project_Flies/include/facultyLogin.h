@@ -6,6 +6,7 @@ using namespace std;
 string status;
 static int flag = 0;
 
+
 class faculty
 {
 public:

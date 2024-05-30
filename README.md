@@ -2,9 +2,6 @@
 
 ![201007_Blog_Feature_Schedule_Management-scaled](https://user-images.githubusercontent.com/70385488/223933676-f358fdf4-dfdf-46d1-a3f6-7efcfd6f9ef1.jpeg)
 
-## Requirements
-
-Check project requirements from here : **[CLICK HERE](https://github.com/kishanrajput23/Training-Schedule-Management/blob/main/Project_Flies/docs/requirements_doc.md)** 👈
 
 
 ## Setup & Installation
