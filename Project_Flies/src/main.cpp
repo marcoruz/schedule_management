@@ -93,7 +93,7 @@ void adminLogin()       //UTC-007 & AA-001
     }
 }
 
-void facultyLogin()         //UTC-007 & AA-001
+void facultyLogin()         // UTC-007 & AA-001
 {
 
     int count = 0;
