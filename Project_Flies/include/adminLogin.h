@@ -167,6 +167,7 @@ public:
             createSchedule();
         }
         cin.ignore();
+        
 
         int diff = countNoOfDays(date1, date2);
         if (diff != nod)
