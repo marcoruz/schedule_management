@@ -138,7 +138,7 @@ public:
         cout << "Enter the end date of training (Use Format {DD-MM-YYYY}) : ";
         getline(cin, endDate);
 
-        stringstream Y(endDate);
+        stringstream Y(endDate); // Date
         while (getline(Y, T, '-'))
         {
             int r = stoi(T);
